@@ -1,0 +1,164 @@
+arSil/*rj< yrim!wr
+
+xyi+vr@v/yr* zr nnvy*z,rt rlâj< r@iz,rj rt' z*r@izrn!t!,r*/r@ /&r$riyy!+ ywr
+
+o>rCv/yyig ruo
+
+-rCUt!*rr_E& m@l _
+
+er[CUt!*rHvm ](<**@:ccj/t!*.zv/yj nvyg .t *c!td &.<*ml)
+
+
+---rl zr@yéy q/!zr
+er@v/yrlirmij<!t rJi+ir(UQAM)rtv/zri+vtzrlir+ yz!vtr2.1o3rnvtj*!vtt l.
+erl zrn!j<! yzrd' t*ê* rzvt*rditzr`c/zyc!tjl/d cCUt!*`
+erl zrn!j<! yzrl!byi!y! zrzvt*rditzr`c/zycl!b64`
+erGCCr+ yz!vtr7er
+
+
+---rl zrjvmmitd zr:
+
+er`hrgjjroWillrojrmi&.j`
+er`hrgjjroWillroIc/zyc!tjl/d cCUt!*roLc/zycl!b64rolj/t!*rovrmi&_* z*rmi&_* z*.jrmi&.vr`
+er`hr.cmi&_* z*`
+
+
+---rR td/r+!z/ l
+~~
+rrrrrCUt!*rorAr/t!*r* z*!tgrnyim pvysrnvyrCrorV yz!vtr2.1o3
+rrrrr<**@:ccj/t!*.zv/yj nvyg .t *c
+
+
+S/!* :rmi&_* z*_z/!* 
+rrT z*:rmi&_* z*_1r...@izz d
+rrT z*:rmi&_* z*_2r...@izz d
+rrT z*:rmi&_* z*_3r...@izz d
+
+R/trS/mmiy$:rrrrT$@ rrTv*ilrrrrRitrPizz drFi!l drItij*!+ 
+rrrrrrrrrrrrrrz/!* zrrrrrr1rrrrrr1rrrrtcirrrrrr0rrrrrrrr0
+rrrrrrrrrrrrrrr* z*zrrrrrr3rrrrrr3rrrrrr3rrrrrr0rrrrrrrr0
+rrrrrrrrrrrrrizz y*zrrrrrr6rrrrrr6rrrrrr6rrrrrr0rrrrrrtci
+
+Eli@z dr*!m r=rrrr0.000rz jvtdz
+~~
+
+--rmi&.<
+
+```j
+ccmi&.<
+-!ntd nrMAX_H
+-d n!t rMAX_H
+rr &* ytr!t*rmi&r(!t*,r!t*);
+- td!n
+```
+
+--rmi&.j
+
+```j
+ccmi&.j
+-!tjl/d r"mi&.<"
+
+!t*rmi&r(!t*rt1,r!t*rt2)
+{
+rrr!nr(rt2r>rt1r)ry */ytrt2;
+rrry */ytrt1;
+}
+```
+
+
+--rmi&_* z*.j
+
+```j
+ccmi&_* z*.j
+-!tjl/d r"xiz!j.<"rrrrrrrccrmvd rd rbiz 
+cc-!tjl/d r"A/*vmi* d.<"
+cc-!tjl/d r"Cvtzvl .<"
+-!tjl/d r"mi&.<"rrrrrrrrrccrd jliyi*!vtrd rm zrnvtj*!vtz
+-!tjl/d ruz*d!v.<>rrrrrrrccr@y!t*n
+
+caaaaarrLESrnvtj*!vtzrq/!r!t!*!il!z r *rd *y/!*rlir"S/!* rd r* z*"raaaaaac
+
+!t*r!t!*_z/!* (+v!d)r{ry */ytr0;r}
+!t*rjl it_z/!* (+v!d)r{ry */ytr0;r}
+
+caaaaaaaaaaaaaaaaaaaaarNOSrnvtj*!vtzrd r* z*zraaaaaaaaaaaaaaaaaaaaac
+ca
++v!dr* z*_jiz _ & m@l (+v!d)
+{
+rrrccrL zr*$@ zrd'izz y*!vtzrd!z@vt!bl z
+rrrCU_ASSERT(CU_TRUE);
+rrrCU_ASSERT_NOT_EQUAL(2,ro1);
+rrrCU_ASSERT_STRING_EQUAL("z*y!tgr-1",r"z*y!tgr-1");
+rrrCU_ASSERT_STRING_NOT_EQUAL("z*y!tgr-1",r"z*y!tgr-2");
+
+rrrCU_ASSERT(CU_FALSE);
+rrrCU_ASSERT_EQUAL(2,r3);
+rrrCU_ASSERT_STRING_NOT_EQUAL("z*y!tgr-1",r"z*y!tgr-1");
+rrrCU_ASSERT_STRING_EQUAL("z*y!tgr-1",r"z*y!tgr-2");
+}
+ac
++v!drmi&_* z*_/t(+v!d)r{
+rrCU_ASSERT_EQUAL(rmi&(1,2),r2);
+rrCU_ASSERT_EQUAL(rmi&(2,1),r2);
+}
+
++v!drmi&_* z*_d /&(+v!d)r{
+rrCU_ASSERT_EQUAL(rmi&(2,2),r2);
+rrCU_ASSERT_EQUAL(rmi&(0,0),r0);
+rrCU_ASSERT_EQUAL(rmi&(o1,o1),ro1);
+}
+
++v!drmi&_* z*_*yv!z(+v!d)r{
+rrCU_ASSERT_EQUAL(rmi&(o1,o2),ro1);
+}
+
+caaaaaaaaaaaaarNv/zrd b/*vtzrl' & j/*!vtrd zr* z*zraaaaaaaaaaaaaac
+
+!t*rmi!tr(r+v!dr)
+{
+rrrCU_@S/!* r@S/!* r=rNULL;
+
+rrrcar!t!*!il!# r*< rCUt!*r* z*ry g!z*y$rac
+rrr!nr(rCUE_SUCCESSrw=rCU_!t!*!il!# _y g!z*y$()r)
+rrrrrry */ytrCU_g *_ yyvy();
+
+rrrcariddrirz/!* r*vr*< ry g!z*y$rac
+rrr@S/!* r=rCU_idd_z/!* (r"mi&_* z*_z/!* ",r!t!*_z/!* ,rjl it_z/!* r);
+rrr!nr(rNULLr==r@S/!* r)r{
+rrrrrrCU_jl it/@_y g!z*y$();
+rrrrrry */ytrCU_g *_ yyvy();
+rrr}
+
+rrrcariddr*< r* z*zr*vr*< rz/!* rac
+rrr!nr(r(NULLr==rCU_idd_* z*(@S/!* ,r"mi&_* z*_1",rmi&_* z*_/t))r||
+rrrrrrrr(NULLr==rCU_idd_* z*(@S/!* ,r"mi&_* z*_2",rmi&_* z*_d /&))r||
+rrrrrrrr(NULLr==rCU_idd_* z*(@S/!* ,r"mi&_* z*_3",rmi&_* z*_*yv!z))
+rrrrrr)
+rrr{
+rrrrrrCU_jl it/@_y g!z*y$();
+rrrrrry */ytrCU_g *_ yyvy();
+rrr}
+
+rrrccrR/trillr* z*zr/z!tgr*< rbiz!jr!t* ynij 
+rrrCU_biz!j_z *_mvd (CU_xRM_VERxOSE);
+rrrCU_biz!j_y/t_* z*z();
+rrr@y!t*n("\t");
+rrrCU_biz!j_z<vp_ni!l/y z(CU_g *_ni!l/y _l!z*());
+rrr@y!t*n("\t\t");
+car
+rrrccrLESrmvd zr!t* yij*!nz
+rrrccrR/trillr* z*zr/z!tgr*< ri/*vmi* dr!t* ynij 
+rrrCU_i/*vmi* d_y/t_* z*z();
+rrrCU_l!z*_* z*z_*v_n!l ();
+
+rrrccrR/trillr* z*zr/z!tgr*< rjvtzvl r!t* ynij 
+rrrCU_jvtzvl _y/t_* z*z();
+ac
+rrrcarCl itr/@ry g!z*y$ritdry */ytrac
+rrrCU_jl it/@_y g!z*y$();
+rrry */ytrCU_g *_ yyvy();
+}
+```
+r
+roooo
+r@iyrGF
